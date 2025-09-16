@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/DiscoveryServer/DiscoveryServer/pom.xml" />
         <option value="$PROJECT_DIR$/Users/Users/pom.xml" />
         <option value="$PROJECT_DIR$/AccountManagement/AccountManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/ApiGateway/ApiGateway/pom.xml" />
       </list>
     </option>
   </component>
